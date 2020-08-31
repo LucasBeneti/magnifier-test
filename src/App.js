@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Teste do Github pages</h1>
+      <h1>É só commitar as mudança que já rola parece</h1>
     </div>
   );
 }
