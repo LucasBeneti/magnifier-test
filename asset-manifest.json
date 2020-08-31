@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/magnifier-test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/magnifier-test/static/js/main.11b95f12.chunk.js",
-    "main.js.map": "/magnifier-test/static/js/main.11b95f12.chunk.js.map",
+    "main.js": "/magnifier-test/static/js/main.53dbb81f.chunk.js",
+    "main.js.map": "/magnifier-test/static/js/main.53dbb81f.chunk.js.map",
     "runtime-main.js": "/magnifier-test/static/js/runtime-main.adc4ae2e.js",
     "runtime-main.js.map": "/magnifier-test/static/js/runtime-main.adc4ae2e.js.map",
     "static/js/2.9ef0152a.chunk.js": "/magnifier-test/static/js/2.9ef0152a.chunk.js",
     "static/js/2.9ef0152a.chunk.js.map": "/magnifier-test/static/js/2.9ef0152a.chunk.js.map",
     "index.html": "/magnifier-test/index.html",
-    "precache-manifest.055d3d1e0f1f1b63a1f9b6121f3e92bd.js": "/magnifier-test/precache-manifest.055d3d1e0f1f1b63a1f9b6121f3e92bd.js",
+    "precache-manifest.a86e17b3253ceeb048ef474ede1e3436.js": "/magnifier-test/precache-manifest.a86e17b3253ceeb048ef474ede1e3436.js",
     "service-worker.js": "/magnifier-test/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/magnifier-test/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9ef0152a.chunk.js.LICENSE.txt": "/magnifier-test/static/js/2.9ef0152a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/magnifier-test/static/media/logo.5d5d9eef.svg"
+    "static/js/2.9ef0152a.chunk.js.LICENSE.txt": "/magnifier-test/static/js/2.9ef0152a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.adc4ae2e.js",
     "static/js/2.9ef0152a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.11b95f12.chunk.js"
+    "static/js/main.53dbb81f.chunk.js"
   ]
 }
