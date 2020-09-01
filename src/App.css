@@ -20,7 +20,7 @@ body,
 }
 
 .mainGrid {
-  margin: 5em 2em;
+  margin: 3em 3em;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -29,12 +29,7 @@ body,
   border-radius: 10px;
 }
 
-.imageMagnify {
-  display: flex;
-  flex-direction: column;
-  padding: 1em;
-}
-
+.imageMagnify,
 .imageZoom {
   display: flex;
   flex-direction: column;
