@@ -9,14 +9,12 @@ html,
 body,
 .App {
   height: 100%;
-  /* background-color: khaki; */
-  background-color: rgb(157, 157, 157);
+  background-color: rgb(255, 255, 255);
 }
 
 .App {
   height: inherit;
   width: 100%;
-  /* margin: 10em; */
 }
 
 .mainGrid {
@@ -25,7 +23,7 @@ body,
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(181, 181, 181);
   border-radius: 10px;
 }
 
@@ -54,26 +52,3 @@ body,
   margin-bottom: 0.5em;
   text-align: center;
 }
-/* .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-} */
-
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
